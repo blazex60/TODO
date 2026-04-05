@@ -6,6 +6,11 @@ class Task:
 
 class TaskManager:
     def __init__(self,task):
+        self.task = task
+
+    def add(self)
+        #taskに読み書きを投げます
+
 
 def selectMenu(selected):
     match selected:
